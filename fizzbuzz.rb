@@ -1,5 +1,5 @@
 def fizzbuzz(input)
-  if input % 3 == 1
+  if (input % 3 == 1)
     puts "Fizz"
   elsif input % 5 == 1
     puts "Buzz"
